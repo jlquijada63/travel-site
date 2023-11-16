@@ -1,6 +1,5 @@
 @import "normalize.css";
 
-
 @import "base/_variables.css";
 
 @import "base/_mixins.css";
@@ -20,3 +19,6 @@
 
 @import "modules/_generic-content-container.css";
 
+@import "modules/_section-title.css";
+
+@import "modules/_feature-item.css";
